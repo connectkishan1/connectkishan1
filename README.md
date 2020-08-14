@@ -2,7 +2,6 @@
 <h3 align="center">A DATA SCIENCE & AI TECH ENTHUSIAST</h3>
 You have finally discovered my Github profile.
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
-
 Ask me anything [here](https://github.com/connectkishan1/connectkishan1/issues/new) or [Email](connectkishan1@gmail.com)
 
 <!--
