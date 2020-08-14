@@ -1,10 +1,10 @@
-# Hi👋, My Self Kishan Kumar
-#### A DATA SCIENCE & AI TECH ENTHUSIAST 
+<h1 align="center">  Hi👋, My Self Kishan Kumar</h1>
+<h3 align="center">A DATA SCIENCE & AI TECH ENTHUSIAST</h3>
 You have finally discovered my Github profile.
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
 Ask me anything [here](https://github.com/connectkishan1/connectkishan1/issues/new)
 or [Email](connectkishan1@gmail.com)
-Happy Coding! blush 
+Happy Coding! blush😄 
 
 
 <!--
