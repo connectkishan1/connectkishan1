@@ -8,11 +8,11 @@ Ask me anything [here](https://github.com/connectkishan1/connectkishan1/issues/n
 <h3 align="center"><i>Happy Coding!😊</i></h3>
 
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
-
-</br>
+<img align="right" alt="Coding" width="400" hight="200" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+
+
 - I’m a ECE 💻 graduate of 2013 batch from **Vel's University,Chennai**🎓. I come with an extensive experience of working with different technologies including Web Development, Data Science and Machine Learning ⏳. 
 
 - I'm aspiring 🔭️ Data Scientist currently delving deep into **Neural Networks** 🚂.
