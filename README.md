@@ -12,10 +12,11 @@ Ask me anything [here](https://github.com/connectkishan1/connectkishan1/issues/n
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
+- I'm a ECE 💻 graduate of 2013 batch from **Vel's University,Chennai**🎓. 
 
-- I’m a ECE 💻 graduate of 2013 batch from **Vel's University,Chennai**🎓. I come with an extensive experience of working with different technologies including Web Development, Data Science and Machine Learning ⏳. 
+- I come with an extensive experience of working with different technologies including Data Science and Artificial intelligence ⏳. 
 
-- I'm aspiring 🔭️ Data Scientist currently delving deep into **Neural Networks** 🚂.
+- I'm aspiring 🔭️ Data Scientist🚂.
 
 - I'm  Interested in Artificial Intelligence 🤔. 
 
