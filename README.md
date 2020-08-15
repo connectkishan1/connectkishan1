@@ -4,7 +4,7 @@
 You have finally discovered my Github profile.
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
 
-- -Ask me anything [here](https://github.com/connectkishan1/connectkishan1/issues/new) or [Email](connectkishan1@gmail.com)
+Ask me anything [here](https://github.com/connectkishan1/connectkishan1/issues/new) or [Email](connectkishan1@gmail.com)
 </div>
 <h3 align="center"><i>Happy Coding!😊</i></h3>
 
