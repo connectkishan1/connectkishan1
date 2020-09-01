@@ -13,7 +13,6 @@ And after that I have started with Numpy, Pandas & Completed the certification i
 
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif">
-<br><img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif"/></br>
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 - I'm a DATA SCIENCE & AI TECH ENTHUSIAST.
@@ -24,6 +23,8 @@ And after that I have started with Numpy, Pandas & Completed the certification i
 - love to learn new **Technologies**.
 - Ask me anything [here](https://github.com/connectkishan1/connectkishan1/issues/new) or [Email](connectkishan1@gmail.com)
 - Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
+
+<br><img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif"/></br>
 
 ## &nbsp; &nbsp;🔥**Stack I work with** 
 
