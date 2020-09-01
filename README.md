@@ -1,7 +1,7 @@
-<h1 align="center">  Hi there👋</h1>
+<h1 Hi there👋</h1>
 <!--<h3 align="center"> A DATA SCIENCE & AI TECH ENTHUSIAST<b></h3>-->
 <div align="center">
-You have finally discovered my Github profile.
+I have finally discovered my Github profile.
  
 </div>
 <h3 align="center"><i>Happy Coding!😊</i></h3>
@@ -26,12 +26,11 @@ You have finally discovered my Github profile.
 </br>
 
 ## &nbsp; &nbsp;🔥**Things I'm good at** 
-
-- **Languages:** Python, Markdown.
-- **Framework:** Flask, Bootstrap.
-- **Database:** MySQL.
-- **Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Plotly.
-- **Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization,     Data Warehousing, Quantitative Methods.
+- **Tools:** MS Adv. Excel, MS PP, Tableau
+- **Languages:** Python,R, Markdown.
+- **Frameworks/Packages:** Numpy, Pandas, MatplotLib, Seaborn, Scikit learn, Keras & Tensorflow.
+- **Plateform:** Jupiter Notebook,  	Spider IDE, Google Colab, Python IDLE, AWS, MySQL.
+- **Other Skills:** Data Science Methodology,  	Statistic, Exploratory Data Analysis, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Quantitative Methods, 7QC’S Tools, KPI, Machine & Deep Learning Algorithms(Linear & Logistic Regression, Tree, KNN, SVM, CNN)
 
 <!--
 **connectkishan1/connectkishan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
