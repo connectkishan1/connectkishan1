@@ -27,14 +27,13 @@ And after that I have started with Numpy, Pandas & Completed the certification i
 
 ## &nbsp; &nbsp;🔥**Stack I work with** 
 
+<img align="Right" alt="Coding" width="400" src="https://media.giphy.com/media/Z9mnGHAh5i6hy9yRag/giphy.gif"/>
+
 - **Tools:** MS Adv. Excel, MS PP, Tableau
 - **Languages:** Python,R, Markdown.
 - **Frameworks/Packages:** Numpy, Pandas, MatplotLib, Seaborn, Scikit learn, Keras & Tensorflow.
 - **Plateform:** Jupiter Notebook,  	Spider IDE, Google Colab, Python IDLE, AWS, MySQL.
 - **Other Skills:** Data Science Methodology,  	Statistic, Exploratory Data Analysis, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Quantitative Methods, 7QC’S Tools, KPI, Machine & Deep Learning Algorithms(Linear & Logistic Regression, Tree, KNN, SVM, CNN)
-
-
-<img align="Right" alt="Coding" width="400" src="https://media.giphy.com/media/Z9mnGHAh5i6hy9yRag/giphy.gif"/>
 
 <!--
 **connectkishan1/connectkishan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
