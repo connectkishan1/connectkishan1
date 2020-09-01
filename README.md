@@ -24,8 +24,6 @@ And after that I have started with Numpy, Pandas & Completed the certification i
 - Ask me anything [here](https://github.com/connectkishan1/connectkishan1/issues/new) or [Email](connectkishan1@gmail.com)
 - Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
 
-</br>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif"/>
 
 ## &nbsp; &nbsp;🔥**Stack I work with** 
 
@@ -35,6 +33,7 @@ And after that I have started with Numpy, Pandas & Completed the certification i
 - **Plateform:** Jupiter Notebook,  	Spider IDE, Google Colab, Python IDLE, AWS, MySQL.
 - **Other Skills:** Data Science Methodology,  	Statistic, Exploratory Data Analysis, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Quantitative Methods, 7QC’S Tools, KPI, Machine & Deep Learning Algorithms(Linear & Logistic Regression, Tree, KNN, SVM, CNN)
 
+<img align="left" alt="Coding" width="100" src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif"/>
 <!--
 **connectkishan1/connectkishan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
