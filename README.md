@@ -14,7 +14,7 @@ And after that I have started with Numpy, Pandas & Completed the certification i
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif"/>
 
-## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**</br>
+## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 - I'm a DATA SCIENCE & AI TECH ENTHUSIAST.
 - 3.5 Yrs of experience in Data Analyst.
 - I'm a ECE graduate of 2013 batch from **Vel's University,Chennai**🎓. 
@@ -24,9 +24,11 @@ And after that I have started with Numpy, Pandas & Completed the certification i
 - Ask me anything [here](https://github.com/connectkishan1/connectkishan1/issues/new) or [Email](connectkishan1@gmail.com)
 - Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Z9mnGHAh5i6hy9yRag/giphy.gif"/>
 
 ## &nbsp; &nbsp;🔥**Stack I work with** 
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Z9mnGHAh5i6hy9yRag/giphy.gif"/>
+
 - **Tools:** MS Adv. Excel, MS PP, Tableau
 - **Languages:** Python,R, Markdown.
 - **Frameworks/Packages:** Numpy, Pandas, MatplotLib, Seaborn, Scikit learn, Keras & Tensorflow.
