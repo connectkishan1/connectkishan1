@@ -1,6 +1,6 @@
 # Hi there👋
 <!--<h3 align="center"> A DATA SCIENCE & AI TECH ENTHUSIAST<b></h3>-->
-<div align="center">
+
 I have finally discovered my Github profile. I'm from non-coder background. As a Working Professional in data analyst I had used Ms Excel tool for Exploratory Data Analysis & Visuallization. 
 To Enter in Artificial intelligence & Data Science field i had started coding with pandas in python IDLE with the help of Youtube, NPTEL(IIT) & Data Science Community website to see whether i could be able to do the same through Coding or not. And I did it Easily then I decided to learn Core Python first & I joined Python Taining at Anna University, Chennai dated on Nov 19 for the month on Weekly Classes.
 And after that I have started with Numpy, Pandas & Completed the certification in,
@@ -9,9 +9,7 @@ And after that I have started with Numpy, Pandas & Completed the certification i
 - Applied Data Science With Python @ Cognitive Class(IBM)
 - Machine Learning With Python @ Cognitive Class(IBM)
  
-
-</div>
-<h3 align="center"><i>Now I Love Coding!😊</i></h3>
+<h3 align="center"><i>Now I Love Coding!😊Keep Learning👨‍🎓️️</i></h3>
 
 
 <img align="right" alt="Coding" width="400" hight="200" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
