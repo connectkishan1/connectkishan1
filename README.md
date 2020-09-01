@@ -9,7 +9,7 @@ And after that I have started with Numpy, Pandas & Completed the certification i
 - Applied Data Science With Python @ Cognitive Class(IBM)
 - Machine Learning With Python @ Cognitive Class(IBM)
  
-<h3 align="center"><i>Now I Love Coding!😊Keep Learning👨‍🎓️️</i></h3>
+<h3 align="right"><i>Now I Love Coding!😊Keep Learning👨‍🎓️️</i></h3>
 
 
 <img align="right" alt="Coding" width="400" hight="200" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
@@ -24,13 +24,10 @@ And after that I have started with Numpy, Pandas & Completed the certification i
 - Ask me anything [here](https://github.com/connectkishan1/connectkishan1/issues/new) or [Email](connectkishan1@gmail.com)
 - Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
 
-
-### &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
-
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif"/>
 </br>
 
-## &nbsp; &nbsp;🔥**Things I'm good at** 
+## &nbsp; &nbsp;🔥**Stack I work with** 
 - **Tools:** MS Adv. Excel, MS PP, Tableau
 - **Languages:** Python,R, Markdown.
 - **Frameworks/Packages:** Numpy, Pandas, MatplotLib, Seaborn, Scikit learn, Keras & Tensorflow.
