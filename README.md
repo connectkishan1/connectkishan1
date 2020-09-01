@@ -13,7 +13,7 @@ And after that I have started with Numpy, Pandas & Completed the certification i
 
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Z9mnGHAh5i6hy9yRag/giphy.gif">
-</br></br>
+
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 - I'm a DATA SCIENCE & AI TECH ENTHUSIAST.
 - 3.5 Yrs of experience in Data Analyst.
