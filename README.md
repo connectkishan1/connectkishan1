@@ -12,8 +12,8 @@ And after that I have started with Numpy, Pandas & Completed the certification i
 <h3 align="right"><i>Now I Love Coding!😊Keep Learning👨‍🎓️️</i></h3>
 
 
-<img align="right" alt="Coding" width="400" hight="180" src="https://media.giphy.com/media/Z9mnGHAh5i6hy9yRag/giphy.gif">
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Z9mnGHAh5i6hy9yRag/giphy.gif">
+</br></br>
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 - I'm a DATA SCIENCE & AI TECH ENTHUSIAST.
 - 3.5 Yrs of experience in Data Analyst.
@@ -25,7 +25,6 @@ And after that I have started with Numpy, Pandas & Completed the certification i
 - Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif"/>
-</br>
 
 ## &nbsp; &nbsp;🔥**Stack I work with** 
 - **Tools:** MS Adv. Excel, MS PP, Tableau
