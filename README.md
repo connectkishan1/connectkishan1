@@ -17,7 +17,7 @@ And after that I have started with Numpy, Pandas & Completed the certification i
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 - I'm a DATA SCIENCE & AI TECH ENTHUSIAST.
 - 3.5 Yrs of experience in Data Analyst.
-- I'm a ECE graduate of 2013 batch from **Vel's University,Chennai**🎓. 
+- I'm a ECE graduate of 2013 batch from **Vel's University,Chennai**.
 - I come with an extensive experience of working with different technologies including Data Science and Artificial intelligence.
 - Interested in Artificial Intelligence ML-DL.
 - love to learn new **Technologies**.
