@@ -1,21 +1,28 @@
-<h1 Hi there👋</h1>
+# Hi there👋
 <!--<h3 align="center"> A DATA SCIENCE & AI TECH ENTHUSIAST<b></h3>-->
 <div align="center">
-I have finally discovered my Github profile.
+I have finally discovered my Github profile. I'm from non-coder background. As a Working Professional in data analyst I had used Ms Excel tool for Exploratory Data Analysis & Visuallization. 
+To Enter in Artificial intelligence & Data Science field i had started coding with pandas in python IDLE with the help of Youtube, NPTEL(IIT) & Data Science Community website to see whether i could be able to do the same through Coding or not. And I did it Easily then I decided to learn Core Python first & I joined Python Taining at Anna University, Chennai dated on Nov 19 for the month on Weekly Classes.
+And after that I have started with Numpy, Pandas & Completed the certification in,
  
+- Deep Learning @ CDAC Thiruvananthapuram
+- Applied Data Science With Python @ Cognitive Class(IBM)
+- Machine Learning With Python @ Cognitive Class(IBM)
+ 
+
 </div>
-<h3 align="center"><i>Happy Coding!😊</i></h3>
+<h3 align="center"><i>Now I Love Coding!😊</i></h3>
 
 
 <img align="right" alt="Coding" width="400" hight="200" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
-- I'm A DATA SCIENCE & AI TECH ENTHUSIAST
-- I'm a ECE 💻 graduate of 2013 batch from **Vel's University,Chennai**🎓. 
-- I come with an extensive experience of working with different technologies including Data Science and Artificial intelligence ⏳. 
-- I'm aspiring 🔭️ Data Scientist🚂.
-- I'm  Interested in Artificial Intelligence 🤔. 
-- I love to learn new 💻 **Technologies**.
+- I'm a DATA SCIENCE & AI TECH ENTHUSIAST
+- 3.5 Yrs of experience in Data Analyst.
+- I'm a ECE graduate of 2013 batch from **Vel's University,Chennai**🎓. 
+- I come with an extensive experience of working with different technologies including Data Science and Artificial intelligence.
+- Interested in Artificial Intelligence
+- love to learn new **Technologies**.
 - Ask me anything [here](https://github.com/connectkishan1/connectkishan1/issues/new) or [Email](connectkishan1@gmail.com)
 - Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
 
