@@ -12,7 +12,8 @@ And after that I have started with Numpy, Pandas & Completed the certification i
 <h3 align="right"><i>Now I Love Coding!😊Keep Learning👨‍🎓️️</i></h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif"></br>
+
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 - I'm a DATA SCIENCE & AI TECH ENTHUSIAST.
