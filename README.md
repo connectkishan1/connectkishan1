@@ -16,7 +16,7 @@ And after that I have started with Numpy, Pandas & Completed the certification i
 
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
-- I'm a Aspiring Data Scientist & AI Tech Enthusiast & have 3.5 Yrs of experience as a Data Analyst.
+- I'm a Aspiring Data Scientist & have 3.5 Yrs of experience as a Data Analyst.
 <!--- 3.5 Yrs of experience as a Data Analyst.-->
 <!--- I'm a ECE graduate of from **Vel's University,Chennai**.-->
 <!--- I come with an extensive experience of working with different technologies including Data Science and Artificial intelligence.-->
