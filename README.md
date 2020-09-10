@@ -12,11 +12,11 @@ And after that I have started with Numpy, Pandas & Completed the certification i
 <!--<h3 align="right"><i>Now I Love Coding!😊Keep Learning👨‍🎓️️</i></h3>-->
 
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif"></br>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif"></br>
 
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
-- I'm a DATA SCIENCE & AI TECH ENTHUSIAST & have 3.5 Yrs of experience as a Data Analyst.
+- I'm a Aspiring Data Scientist & AI Tech Enthusiast & have 3.5 Yrs of experience as a Data Analyst.
 <!--- 3.5 Yrs of experience as a Data Analyst.-->
 <!--- I'm a ECE graduate of from **Vel's University,Chennai**.-->
 <!--- I come with an extensive experience of working with different technologies including Data Science and Artificial intelligence.-->
@@ -33,7 +33,7 @@ And after that I have started with Numpy, Pandas & Completed the certification i
 - **Plateform:** Jupiter Notebook,  	Spider IDE, Google Colab, Python IDLE, AWS, MySQL.
 - **Other Skills:** Data Science Methodology,  	Statistic, Exploratory Data Analysis, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Quantitative Methods, KPI, Machine & Deep Learning Algorithms(Linear & Logistic Regression, Tree, KNN, SVM, CNN)
 
-<h3 align="right"><i>Now I Love Coding!😊Keep Learning👨‍🎓️️</i></h3>
+<h3 align="right"><i>I Love Coding!😊Keep Learning👨‍🎓️️</i></h3>
 
 <!--
 **connectkishan1/connectkishan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
