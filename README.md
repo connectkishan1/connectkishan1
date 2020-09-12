@@ -1,4 +1,17 @@
-# Hi there👋
+# Hello world!👋
+I **Kishan Kumar** passionate about using artificial intelligence to make the world a slightly better place. Typically, I like to work on projects involving machine learning, Deep learning, or any analyses involving human behavior. In my spare time, you will often find me working on personal projects to help those starting out AI-world.
+
+<details>
+<summary>Data Science projects</summary>
+ 
+| Project | Tags |
+| --- | --- |
+| [Iris-Classifier-WebApp](#Iris) | <img src="https://img.shields.io/badge/-Published-black"> <img src="https://img.shields.io/badge/-ML-red"> <img src="https://img.shields.io/badge/-Logistics Regression-81D4FA"> <img src="https://img.shields.io/badge/-SVM-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
+| [Titanic: Machine Learning from Disaster](#Titanic) | <img src="https://img.shields.io/badge/-Published-black"> <img src="https://img.shields.io/badge/-ML-red"> <img src="https://img.shields.io/badge/-Logistics Regression-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
+| [BOSTON-Housing-Dataset-Prediction](#BOSTON) | <img src="https://img.shields.io/badge/-XGBoost-81D4FA"> <img src="https://img.shields.io/badge/-Stacking-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Traffic-Sign-Board-Recognition](#Traffic) | <img src="https://img.shields.io/badge/-CNN-yellow"> <img src="https://img.shields.io/badge/-Keras-yellow"> <img src="https://img.shields.io/badge/-Python-blue"> <img src="https://img.shields.io/badge/-Visualization-purple">
+ 
+</details>
 <!--<h3 align="center"> A DATA SCIENCE & AI TECH ENTHUSIAST<b></h3>-->
 <!--I have finally discovered my Github profile. I'm from non-coder background. As a Data analyst Working Professional I had used Ms Excel tool for Exploratory Data Analysis & Visuallization. 
 To Enter in Artificial intelligence & Data Science field i had started coding with pandas in python IDLE with the help of Youtube, NPTEL(IIT) & Data Science Community website to see whether i could be able to do the same through Coding or not. And I did it Easily then I decided to learn Core Python first & I joined Python Taining at Anna University, Chennai dated on Nov 19 for the month on Weekly Classes.
