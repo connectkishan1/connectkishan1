@@ -8,8 +8,9 @@ I **Kishan Kumar** passionate about using artificial intelligence to make the wo
 | --- | --- |
 | [Iris-Classifier-WebApp](#Iris) | <img src="https://img.shields.io/badge/-Published-black"> <img src="https://img.shields.io/badge/-ML-red"> <img src="https://img.shields.io/badge/-Logistics Regression-81D4FA"> <img src="https://img.shields.io/badge/-SVM-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
 | [Titanic: Machine Learning from Disaster](#Titanic) | <img src="https://img.shields.io/badge/-Published-black"> <img src="https://img.shields.io/badge/-ML-red"> <img src="https://img.shields.io/badge/-Logistics Regression-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
-| [BOSTON-Housing-Dataset-Prediction](#BOSTON) | <img src="https://img.shields.io/badge/-XGBoost-81D4FA"> <img src="https://img.shields.io/badge/-Stacking-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [House Prices-BOSTON Housing Dataset Prediction](#BOSTON) | <img src="https://img.shields.io/badge/-LinearRigression-81D4FA"> <img src="https://img.shields.io/badge/-Stacking-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [Traffic-Sign-Board-Recognition](#Traffic) | <img src="https://img.shields.io/badge/-CNN-yellow"> <img src="https://img.shields.io/badge/-Keras-yellow"> <img src="https://img.shields.io/badge/-Python-blue"> <img src="https://img.shields.io/badge/-Visualization-purple">
+| [House Prices-Ames Housing dataset-Prediction](#House Prices) | <img src="https://img.shields.io/badge/-Published-black"> <img src="https://img.shields.io/badge/-XGBoost-81D4FA"> <img src="https://img.shields.io/badge/-Lasso-81D4FA"> <img src="https://img.shields.io/badge/-Gradient boosting-81D4FA"> <img src="https://img.shields.io/badge/-ElasticNet-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
  
 </details>
 <!--<h3 align="center"> A DATA SCIENCE & AI TECH ENTHUSIAST<b></h3>-->
