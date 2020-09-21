@@ -44,6 +44,12 @@ And after that I have started with Numpy, Pandas & Completed the certification i
 
 <h3 align="right"><i>I Love Coding!😊Keep Learning👨‍🎓️️</i></h3>
 
+
+
+
+<!--![stats](https://github-readme-stats.vercel.app/api?username=connectkishan1&show_icons=true)-->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=connectkishan1.connectkishan1)
+
 <!--
 **connectkishan1/connectkishan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
