@@ -37,9 +37,9 @@ And after that I have started with Numpy, Pandas & Completed the certification i
 ## &nbsp; &nbsp;🔥**Stack I work with** 
 
 - **Tools:** MS Adv. Excel, MS PP, Tableau
-- **Languages:** Python,R, Markdown.
+- **Languages:** Python,R, Markdown, HTML.
 - **Frameworks/Packages:** Numpy, Pandas, MatplotLib, Seaborn, Scikit learn, Keras & Tensorflow.
-- **Plateform:** Jupiter Notebook,  	Spider IDE, Google Colab, Python IDLE, AWS, MySQL.
+- **Plateform:** Jupiter Notebook,  	Spider IDE, Google Colab, PyCharm IDE, AWS, MySQL.
 - **Other Skills:** Data Science Methodology,  	Statistic, Exploratory Data Analysis, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Quantitative Methods, KPI, Machine & Deep Learning Algorithms(Linear & Logistic Regression, Tree, KNN, SVM, CNN)
 
 <h3 align="right"><i>I Love Coding!😊Keep Learning👨‍🎓️️</i></h3>
