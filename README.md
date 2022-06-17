@@ -29,18 +29,18 @@ And after that I have started with Numpy, Pandas & Completed the certification i
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif"></br>
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
-- I'm an Aspiring Data Scientist & have 3.5 Yrs of experience as a Data Analyst.
+- I'm an Aspiring Data Scientist & have 4.5 Yrs of experience as a Data Analyst.
 - love to learn new **Technologies**.
 - Ask me anything [Here](https://github.com/connectkishan1/connectkishan1/issues/new) or [Email](connectkishan1@gmail.com)
 - Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
 
 ## &nbsp; &nbsp;🔥**Stack I work with** 
 
-- **Tools:** MS Adv. Excel, MS PP, Tableau
-- **Languages:** Python,R, Markdown, HTML.
+- **Tools:** MS Adv. Excel, MS PP, Power BI
+- **Languages:** Python, Markdown, HTML.
 - **Frameworks/Packages:** Numpy, Pandas, MatplotLib, Seaborn, Scikit learn, Keras & Tensorflow.
-- **Plateform:** Jupiter Notebook,  	Spider IDE, Google Colab, PyCharm IDE, AWS, MySQL.
-- **Other Skills:** Data Science Methodology,  	Statistic, Exploratory Data Analysis, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Quantitative Methods, KPI, Machine & Deep Learning Algorithms(Linear & Logistic Regression, Tree, KNN, SVM, CNN)
+- **Plateform:** Jupiter Notebook,  	Spider IDE, Google Colab, PyCharm IDE, MySQL.
+- **Other Skills:** Data Science Methodology,  	Statistic, Exploratory Data Analysis, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Quantitative Methods, Machine & Deep Learning Algorithms(Linear & Logistic Regression, Tree, KNN, SVM, CNN)
 
 <h3 align="right"><i>I Love Coding!😊Keep Learning👨‍🎓️️</i></h3>
 
